@@ -19,3 +19,7 @@ It also included a single-player mode against a very primitive computer opponent
 ![Screen 1](screenshots/screen1.png)
 
 ![Screen 2](screenshots/screen2.png)
+
+#Bonus track: Original source files with preserved 1994 timestamps.
+
+![Screen 3](screenshots/screen3.png)
